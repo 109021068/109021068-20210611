@@ -102,8 +102,8 @@ def setBtnText(num):
             print("Player2 win")
 
 window= Tk()
-window.geometry("400x400+200+100")
-window.title="Button Test"
+window.geometry("500x500+200+200")
+window.title="Button"
 window.rowconfigure(0, weight=1)
 window.rowconfigure(1, weight=1)
 window.rowconfigure(2, weight=1)
